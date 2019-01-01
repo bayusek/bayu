@@ -1,0 +1,70 @@
+
+ .main-header{
+ 	padding: 8% 0;
+ }
+ .main-about{
+ 	padding: 8% 0;
+ 	background-color: tomato;
+ 	color:white ;
+ }
+
+ .container-fluid{
+ 	overflow: hidden;
+ }
+
+ .main-words{
+ 	padding: 8% 0;
+ 	background-color: white;
+ 	color:black ;
+	 }
+
+	 h3 {
+	 	font-family: Mixa Extra Light;
+	 }
+
+	 h4 {
+	 	color: white;
+	 }
+
+ .main-skill{
+ 	background-color: tomato;
+ 	color: white;
+ 	padding: 8% 0;
+ 	}
+
+ .progress {
+ 	background-color: grey;
+ 	border: 1px solid black;
+ }
+
+ .progress-bar {
+ 	background-color: white;
+
+ }
+
+ .main-contact {
+ 	background-color: white;
+ 	color: black;
+ 	padding: 8% 0;
+
+ }
+
+ footer {
+ 	background-color: white;
+ 	padding: 8%;
+ 	overflow: hidden;
+ 	text-align: center;
+ }
+
+
+.main-jancok {
+	padding: 3%;
+	background-color: black;
+	color:white ;
+} 
+
+
+
+
+
+
